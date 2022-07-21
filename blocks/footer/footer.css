@@ -1,0 +1,8 @@
+.footer {
+  width: calc(100% - 30px);
+  height: 100px;
+  box-sizing: border-box;
+  margin: 100px auto 0;
+  padding: 0;
+  background-color: #7faff7;
+}

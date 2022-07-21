@@ -1,0 +1,13 @@
+@import url(./__element/block2__element.css);
+
+.block2 {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #88b5bf;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 30px;
+  margin: 0;
+  padding: 30px;
+  list-style: none;
+}

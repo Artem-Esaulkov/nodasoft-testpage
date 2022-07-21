@@ -1,0 +1,7 @@
+.header__checkbox {
+  position: absolute;
+  top: 23px;
+  right: 30px;
+  z-index: 2;
+  opacity: 0;
+}

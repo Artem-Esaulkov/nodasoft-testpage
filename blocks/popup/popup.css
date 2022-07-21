@@ -1,0 +1,19 @@
+@import url(./__close/popup__close.css);
+@import url(./__title/popup__title.css);
+
+.popup {
+  padding: 169px 116.5px;
+  position: absolute;
+  top: 0;
+  left: 400px;
+  background-color: #fff;
+  display: none;
+}
+
+.popup:target {
+  display: block;
+}
+
+#close {
+    display: block;
+}

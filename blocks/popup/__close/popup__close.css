@@ -1,0 +1,15 @@
+.popup__close {
+  background-image: url(../../../assets/X.svg);
+  background-repeat: no-repeat;
+  background-size: 13px 23px;
+  color: #fff;
+  background-color: #7faff6;
+  border-radius: 5px;
+  background-position: center;
+  border: none;
+  width: 43px;
+  height: 39px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}

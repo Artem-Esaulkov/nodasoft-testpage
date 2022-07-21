@@ -1,0 +1,7 @@
+.block1__element_4 {
+  width: 995px;
+}
+
+.block1__element_4::before {
+    content: "4";
+}

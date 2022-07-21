@@ -1,0 +1,6 @@
+.content {
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
